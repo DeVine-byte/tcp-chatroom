@@ -1,37 +1,37 @@
 
-#### TCP Chatroom
+# TCP Chatroom
 
-# A simple TCP-based chatroom application built with Python
+### A simple TCP-based chatroom application built with Python
 
-### Features:
+## Features:
 
-# Multi-user chatroom
-# Real-time messages
-# Command-line interface
+### Multi-user chatroom
+### Real-time messages
+#### Command-line interface
 
-### Requirments:
+##Requirments:
 
-# Python 3.x
+## Python 3.x
 
-### Installation:
+## Installation:
 
-# Clone repository: git clone https://github.com/DeVine-byte/tcp-chatroom.git
-# Navigateto the project directory: cd tcp-chatroom
-# Run server: python server.py
-# Run client: python client.py
+### Clone repository: git clone https://github.com/DeVine-byte/tcp-chatroom.git
+### Navigateto the project directory: cd tcp-chatroom
+### Run server: python server.py
+### Run client: python client.py
 
-### Usage
+## Usage
 
-# Server: python server.py
-# Client: python client.py
-# type message to send to the chatroom
+### Server: python server.py
+### Client: python client.py
+### type message to send to the chatroom
 
-### Customization
+## Customization
 
-# to increase the number of client that can connect to the chatroom, modify the server.listen function in server.py. For example to allow 20 clients, change server.listen(10) to server.listen(20).
+### to increase the number of client that can connect to the chatroom, modify the server.listen function in server.py. For example to allow 20 clients, change server.listen(10) to server.listen(20).
 
 ## contributions are welcome! fork the repository, make changes and submit a pull request
 
-### License
+#### License
 
-# This project is licensed under the MIT Licence see LICENSE for more details
+##### This project is licensed under the MIT Licence see LICENSE for more details
